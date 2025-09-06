@@ -11,7 +11,7 @@ Worked with 100+ startups, leading marketing, community-building, and early-stag
 
 📫 How to reach me: smty.pradhan@gmail.com 
 
-💼 View my Portfolio here: [smtypradhan.github.io](smtypradhan.github.io)
+💼 View my Portfolio here: smtypradhan.github.io
 
 😄 Pronouns: She/her
 
