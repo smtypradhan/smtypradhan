@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I'm Smty Pradhan — a Business Strategy and Analytics professional based in New York City.
-Worked with 100+ startups, leading marketing, community-building, and early-stage investment programs. Facilitated $2M+ in seed funding for 34 startups through initiatives like Meta XR Startup Program and Wadhwani Foundation Startup School, while driving 25% higher stakeholder engagement via integrated marketing campaigns. Coached student founders, achieving a 30% acceptance rate into accelerator programs and improving overall startup success rates by 20%. Experienced in end-to-end program execution across the startup ecosystem, delivering measurable impact.
+A curious person with analytical skills.
+Worked with 100+ startups, leading marketing, community-building, and early-stage investment programs. Facilitated $3M+ in seed funding for startups through programs like META XR Startup Program, Startup India Seedfund, and Wadhwani Foundation Startup School. Drove 25% higher stakeholder engagement via integrated marketing campaigns. Coached student founders, achieving a 30% acceptance rate into accelerator programs and improving overall startup success rates by 20%. Experienced in end-to-end operational execution across the startup ecosystem, delivering measurable impact. Skilled in Advanced Excel, Tableau, and SQL to transform data into actionable insights and visualization for effective storytelling! 
 
-⚡ Fun fact: I'm a competitive typing record holder with a current 110 words-per-minute and 100% accuracy
+⚡ Fun fact: I'm a competitive typing record holder with a current 110 words-per-minute and 100% accuracy.
 
 🔭 I’m currently working on building data-driven storytelling [dashboards](https://public.tableau.com/app/profile/smriti3730/vizzes) and building a book-recommendation model.
 
