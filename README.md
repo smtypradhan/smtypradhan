@@ -1,4 +1,4 @@
-A curious person with an innovation mindset. 
+Curious and analytical.
 
 100+ startups. Leading early-stage investment portfolios, accelerator programs, and community-building.
 
